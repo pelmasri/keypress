@@ -5,7 +5,7 @@ import PackageDescription
 let package = Package(
     name: "keypress",
     dependencies: [
-        .Package(url: "https://github.com/pelmasri/kbhit.git", majorVersion: 1)
+        .Package(url: "/home/pi/dev/c/lib/kbhit", majorVersion: 1)
 
 ])
 

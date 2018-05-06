@@ -1,0 +1,12 @@
+{
+  "autoPin": true,
+  "pins": [
+    {
+      "package": "kbhit",
+      "reason": null,
+      "repositoryURL": "https://github.com/pelmasri/kbhit.git",
+      "version": "1.1.12"
+    }
+  ],
+  "version": 1
+}
